@@ -1,0 +1,10 @@
+﻿  Building 'HookSSDT' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\HookSSDT.inf [Version] section with DriverVer=06/07/2019,16.44.24.198
+  debug.c
+  HookSSDT.c
+  正在生成代码...
+  HookSSDT.vcxproj -> C:\Users\Shinelon\Documents\Visual Studio 2015\Projects\Driver\HookSSDT\x64\Debug\HookSSDT.sys
+  HookSSDT.vcxproj -> C:\Users\Shinelon\Documents\Visual Studio 2015\Projects\Driver\HookSSDT\x64\Debug\HookSSDT.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Shinelon\Documents\Visual Studio 2015\Projects\Driver\HookSSDT\x64\Debug\HookSSDT.sys
+  

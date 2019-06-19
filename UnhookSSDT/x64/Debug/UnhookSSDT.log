@@ -1,0 +1,10 @@
+﻿  Building 'UnhookSSDT' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\UnhookSSDT.inf [Version] section with DriverVer=06/16/2019,2.18.3.828
+  debug.c
+  UnhookSSDT.c
+  正在生成代码...
+  UnhookSSDT.vcxproj -> C:\Users\Shinelon\Documents\Visual Studio 2015\Projects\Driver\HookSSDT\x64\Debug\UnhookSSDT.sys
+  UnhookSSDT.vcxproj -> C:\Users\Shinelon\Documents\Visual Studio 2015\Projects\Driver\HookSSDT\x64\Debug\UnhookSSDT.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Shinelon\Documents\Visual Studio 2015\Projects\Driver\HookSSDT\x64\Debug\UnhookSSDT.sys
+  
